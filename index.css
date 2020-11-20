@@ -1,0 +1,35 @@
+body {
+    background-color: rgb(12, 80, 102);
+    color:white;
+    
+    
+}
+
+.wrapper {
+    width: 1000px;
+    margin: 20px auto;
+}
+
+
+
+.new-task {
+    padding-bottom: 20px;
+    border-bottom: 1px solid grey;
+    margin-bottom: 70px;
+}
+
+.new-task input {
+    border: 0;
+    background-color: transparent;
+    width: 100%;
+}
+
+.added-task {
+    margin-bottom: 70px; 
+}
+#new-list {
+    margin-top: 15px;
+    padding: 20px;
+
+}
+
